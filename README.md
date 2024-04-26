@@ -2,7 +2,7 @@
 
 It was made solely for Data Analysis & Data Visualizaiton Projects.
 
-Access to all the notebooks is by the link below:
+Access to all the notebooks is by this link:
 https://bit.ly/4b4Olbb
 
 Other files in this repository are data sources. 
